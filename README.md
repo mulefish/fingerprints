@@ -1,5 +1,5 @@
 # REPO
-https://github.com/mulefish/telos_fingerprints
+https://github.com/mulefish/fingerprints
 
 # Orig finger prints from: 
 https://github.com/robertvazan/fingerprint-datasets   
