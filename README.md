@@ -5,6 +5,14 @@ https://github.com/mulefish/telos_fingerprints
 https://github.com/robertvazan/fingerprint-datasets   
 Tip from a work buddy. 
 
+# Web part dependencies: 
+Have node, install express
+
+# Python dependencies
+import numpy as np  
+import matplotlib.pyplot as plt   
+from PIL import Image  
+ 
 # Example image from a vectorized fingerprint
 ![new_image_from_vector](new_image_from_vector.png)
 
